@@ -1,4 +1,4 @@
-package br.edu.cs.poo.ac.ordem.tela;
+package br.edu.cs.poo.ac.ordem.telas;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
